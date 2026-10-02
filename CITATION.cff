@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: If you use this work, please cite the paper using the metadata below.
+title: 'Multi-Agent AI as a Nested Principal-Agent Problem in Private Wealth Management:
+  Mandate Representation and Evidence Control in Switzerland, Germany and Austria'
+type: article
+authors:
+- family-names: Kurz
+  given-names: Walter
+  orcid: https://orcid.org/0009-0006-8045-4775
+- family-names: Magg
+  given-names: Reinhard
+- family-names: Kollberg
+  given-names: Florian
+- family-names: Stricker
+  given-names: Wojtek
+- family-names: Marx
+  given-names: Stefan
+- family-names: Reinhardt
+  given-names: Frank
+- family-names: Dedić
+  given-names: Velimir
+journal: Swissi AI Journal
+volume: '2026'
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.23095194
+  description: Published paper DOI
+license: CC-BY-4.0
+url: https://journal.swissi-ai.institute/en/doi/guex5c23zfm5

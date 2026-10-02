@@ -1,0 +1,12 @@
+source/*.aux
+source/*.bcf
+source/*.blg
+source/*.log
+source/*.out
+source/*.pdf
+source/*.run.xml
+source/*.toc
+source/*.fls
+source/*.synctex.gz
+source/*.fdb_latexmk
+!source/*.bbl
